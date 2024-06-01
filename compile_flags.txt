@@ -1,0 +1,6 @@
+-I/nix/store/apxr3crx1i7jd88v3k6da7hmg5hnfw0y-libcs50-11.0.2/include
+-I/nix/store/11b5rs14pj5hxal9nfilmz45am2lnrn2-lldb-17.0.6-dev/include
+-I/nix/store/11b5rs14pj5hxal9nfilmz45am2lnrn2-lldb-17.0.6-dev/include
+-I/nix/store/67vf5vg7pnp6a2nhf9k1h32zsb39jpiy-compiler-rt-libc-17.0.6-dev/include
+-I/nix/store/fi0i80hv9wkfqp6xqhdw1sxsmi4fdysr-clang-wrapper-17.0.6/resource-root/include
+-I/nix/store/ij144ma6vs8acil8r9hgr8xkb1dp9azg-glibc-2.39-5-dev/include

@@ -1,0 +1,3 @@
+{
+  "compile_flags": ["-I/nix/store/6jk1d1m5j9d8gjyq79zqlgqqs9j3gcwn-glibc-2.38-44-dev/include"]
+}
