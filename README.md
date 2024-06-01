@@ -1,4 +1,4 @@
-<h1 align=center><code>c_nodejs_nix_dev</code></h1>
+<h1 align=center><code>sea battle game in terminal work in progress</code></h1>
 
 `nodejs_nix_dev` is a handy way to JS conding on using Nix declarative approach.
 
